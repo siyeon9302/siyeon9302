@@ -1,6 +1,6 @@
 ## Hi there I'm Si Yeon 👋
 
-#### Duksung Wonmen's University
+#### Duksung Women's University
 #### Major in IT Media Engeneering
 - https://www.notion.so/f1ce9748ab2e445fbc4e205c86431c47?pvs=4
 

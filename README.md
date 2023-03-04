@@ -1,14 +1,16 @@
 ## Hi there I'm Si Yeon 👋
 
-#### Duksung Women's University
-#### Major in IT Media Engeneering
+- Duksung Women's University
+- Major in IT Media Engeneering
+
+## History✨
 - https://www.notion.so/f1ce9748ab2e445fbc4e205c86431c47?pvs=4
 
 <p>
   <img src="https://img.shields.io/badge/Pyhon-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyther&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-00599C?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-  
 </p>
 
 

@@ -27,8 +27,7 @@ https://www.notion.so/f1ce9748ab2e445fbc4e205c86431c47?pvs=4 <br><br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript5&logoColor=white"/> <br><br>
     </p>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyeon9302)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9999FF&height=150&section=footer" align="center"/>
 
